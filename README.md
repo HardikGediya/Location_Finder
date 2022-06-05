@@ -1,16 +1,37 @@
-# pr1_locator_app
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">Location Finder</a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**To Find Your Live Location...🚩🚩🚩**
+
+Home Page         | 
+:-------------------------:|
+![s1](https://user-images.githubusercontent.com/77672442/172058748-3e0775a8-7c7d-4233-bf4e-28c2ec03ff71.jpg)
+
+
+Location Page       | 
+:-------------------------:|
+![s2](https://user-images.githubusercontent.com/77672442/172058745-2c307015-0aa5-41dc-8c79-5451dd6f16ff.jpg)
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+
